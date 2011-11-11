@@ -1,0 +1,118 @@
+.logintext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.toptxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #006699;
+	text-decoration: none;
+}
+.errortxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.normaltxt {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.labeltxt {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #0066CC;
+	text-decoration: none;
+}
+.txtbox {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	height: 20px;
+	width: 150px;
+	border: 1px solid #0066CC;
+}
+.longtxtbox {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	height: 20px;
+	width: 250px;
+	border: 1px solid #0066CC;
+}
+.subbox {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #0066CC;
+	height: 20px;
+	width: 75px;
+	border: 1px solid #000000;
+}
+.tableborder {
+	border: 1px solid #0066CC;
+}
+.transparent {
+	filter:alpha(opacity=90);
+	background-color:#FFFFFF;
+	display:none;
+	width:174px;
+	height:100px;
+	position:absolute;
+	color: #FFFFFF;
+	border: 1 green solid;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 10px;
+}.maltxt {
+	font-family:ML-TTKarthika;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}.longmalbox {
+	font-family: ML-TTKarthika;
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+	height: 20px;
+	width: 250px;
+	border: 1px solid #0066CC;
+}
+.bigtxtmal {
+	font-family: ML-TTKarthika;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	height: 250px;
+	width: 500px;
+	border: 1px solid #006699;
+}
+.bigtxteng {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	height: 250px;
+	width: 500px;
+	border: 1px solid #0066CC;
+}
+.sbox {
+	height: 20px;
+	width: 50px;
+	border: 1px solid #0066CC;
+}
